@@ -1,0 +1,5 @@
+opencv-python>=4.7.0
+customtkinter>=5.2.2
+Pillow>=10.0.0
+requests>=2.30.0
+zxcvbn>=1.0
